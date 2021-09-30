@@ -1,0 +1,25 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+body{
+	background: #009578;
+
+}
+.login-form {
+	width: 400px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+}
+.login-form h1 {
+font-size: 40px;
+text-align: center;
+text-transform: uppercase;
+margin: 40px;
+}
+.login-form input {
+	font-size: ;
+}
