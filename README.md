@@ -10,8 +10,8 @@
 						<li><a href="index.html">Нүүр</a></li>
 						<li><a href="medee.html">Мэдээ</a></li>
 						<li><a href="#">Архив</a></li>
-						<li><a href="#">Подкаст</a></li>
-						<li><a href="#S">Баг</a></li>
+						<li><a href="https://www.youtube.com/channel/UCISj0ute99O56z10pQtVF_g">Подкаст</a></li>
+						<li><a href="bag.html">Баг</a></li>
 					</ul>
 					</div>
 	<div class="signin">
